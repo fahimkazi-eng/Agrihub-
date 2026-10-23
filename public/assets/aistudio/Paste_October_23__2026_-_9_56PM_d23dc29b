@@ -1,0 +1,901 @@
+MASTER WEBSITE BUILD PROMPT — PARBATIPUR CIRCULAR AGRITECH HUB
+
+1. Your Role
+
+Act as a world-class creative director, senior product designer, full-stack Next.js engineer, interactive 3D developer, agricultural-content strategist, and digital brand architect.
+
+You are not creating a throwaway demo, a school project, a generic poultry farm website, or a simple startup landing page. Build a complete, polished, production-quality company website that explains an integrated agricultural business ecosystem in detail.
+
+The website should have the visual quality of an award-winning 2026 digital experience, but the clarity, trustworthiness, and usefulness of a real agricultural company's website.
+
+Do not just write a plan or give me example code. Inspect the existing repository, understand its structure, and implement the website. If no project exists, create the necessary project structure. Work through the phases below in order and complete the entire implementation.
+
+Project name: PARBATIPUR CIRCULAR AGRITECH HUB
+Location: Parbatipur, Dinajpur, Bangladesh
+Business category: Integrated Agriculture · Aquaculture · Poultry · Circular Resource Recovery · AgriTech
+Core concept: Agriculture, Reconnected.
+
+Use the full brand name as the working identity. Build a coherent visual identity around it. Do not use the old UTTORBONGO brand.
+
+---
+
+2. Business Context — Use This Information Throughout the Website
+
+This business concept combines several connected agricultural activities into one resource-efficient system.
+
+Core production
+
+A. Broiler Production
+
+A proposed broiler chicken operation focused on meat production, careful flock management, biosecurity, feed efficiency, batch-level financial tracking, and reliable product handling.
+
+Initial planning scenario: approximately 500 birds per batch. Treat this as a planning assumption, not a proven operating capacity.
+
+B. Aquaculture
+
+Freshwater fish production using an existing family pond in Parbatipur.
+
+Critical constraint: the pond has three family interests, and each family has a two-year use period. Exact access dates, usable area, stocking authority, and harvest rights must be verified. Present aquaculture as a conditional production stream that operates during the confirmed access period. Do not imply permanent exclusive ownership or uninterrupted access.
+
+Circular agriculture and future business units
+
+C. Organic Resource Recovery
+
+Proper collection and management of poultry litter and suitable plant residues. Investigate safe composting, soil-improvement inputs, and nursery applications. Any commercial fertilizer claims, production methods, and sales must respect relevant quality and regulatory requirements.
+
+D. Black Soldier Fly Research and Pilot
+
+A possible small-scale bioconversion unit that could process suitable, clean, segregated organic side streams into larvae biomass and residual material. It remains an experimental business opportunity until supply, process reliability, product safety, regulations, and buyers are confirmed.
+
+E. Nursery and Seasonal Crops
+
+Produce seedlings and selected seasonal crops based on local demand. Investigate whether tested growing media and suitable compost outputs can support this operation.
+
+F. Mushroom Cultivation
+
+A possible pilot using an appropriate agricultural-residue substrate. This business should be evaluated separately for training, hygiene, contamination risks, yield, and market demand before expansion.
+
+G. FarmOS — Digital Farm Management
+
+A lightweight, Bangla-friendly digital farm-management system built using the owner's coding skills.
+
+It should track:
+
+- Poultry batches, feed, mortality, weights, health records, sales and profitability.
+- Fish stocking, feed, water-quality readings, harvests and revenue during authorized pond-use periods.
+- Organic materials, compost batches, waste quantities, losses and processing costs.
+- Nursery and mushroom production records where applicable.
+- Inventory, suppliers, expenses, payroll, orders and cash flow.
+
+Future potential: offer digital management services to other small farms after the internal system proves useful.
+
+Circular business principle
+
+Explain the relationships clearly:
+
+Broiler Production → Poultry Litter → Controlled Composting → Suitable Nursery/Crop Inputs
+
+Clean Organic Side Streams → Potential Black Soldier Fly Pilot → Tested Outputs for Appropriate Uses
+
+Suitable Agricultural Residues → Potential Mushroom Production → Evaluation of Spent Substrate for Further Use
+
+Nursery and Seasonal Crops → Seedling/Crop Sales
+
+Fish Production → Seasonal Fish Sales, Subject to Pond Access
+
+FarmOS → Records, Cost Analysis, Traceability and Operational Decision Support Across the System
+
+Do not claim that every output automatically becomes a safe, legal, or profitable input. Each connection must be technically validated before commercial use.
+
+---
+
+3. Content Language Rules
+
+The public website must have a deliberate bilingual style.
+
+Main headings, navigation, business-unit names, product categories, interface labels and core brand language: English.
+
+Examples:
+
+- Our System
+- Circular Agriculture
+- Broiler Production
+- Aquaculture
+- Resource Recovery
+- Digital Farm Management
+- Research & Innovation
+- Media Center
+- Our Impact
+- Work With Us
+
+Explanations, descriptions, educational copy, detailed business explanations, FAQs and Bengali storytelling: natural Bangla script.
+
+Use clear, professional Bengali that an ordinary Bangladeshi visitor can understand. Avoid Banglish in the body copy. Common technical terms such as “feed conversion,” “biosecurity,” “working capital,” “batch tracking” and “FarmOS” may remain in English when they are clearer, but explain them in Bengali.
+
+Example:
+
+Circular Agriculture
+
+“আমরা কৃষিকে আলাদা আলাদা কার্যক্রম হিসেবে দেখি না। পোলট্রি, মাছ চাষ, জৈব বর্জ্য ব্যবস্থাপনা, নার্সারি এবং প্রযুক্তিকে একটি সংযুক্ত ব্যবস্থার মধ্যে আনার লক্ষ্য নিয়ে কাজ করছি। প্রতিটি সংযোগের ক্ষেত্রে নিরাপত্তা, উৎপাদন খরচ এবং বাস্তব বাজার চাহিদা যাচাই করা হবে।”
+
+Our Approach
+
+“আমাদের লক্ষ্য শুধু খাদ্য উৎপাদন নয়; বরং উৎপাদনের প্রতিটি ধাপে সম্পদের অপচয় কমানো, খরচ বোঝা, স্থানীয় কর্মসংস্থানের সুযোগ তৈরি করা এবং প্রযুক্তির সাহায্যে কৃষি ব্যবস্থাপনাকে আরও সুশৃঙ্খল করা।”
+
+Write all essential public-facing copy. Do not leave Lorem Ipsum, placeholder headings, empty pages or vague one-line descriptions.
+
+---
+
+4. Creative Direction — Visual Identity
+
+The aesthetic should combine rural Bangladesh's agricultural identity with advanced environmental technology.
+
+Visual mood
+
+- Premium, cinematic, contemporary and forward-looking.
+- Rich, natural textures combined with precise digital graphics.
+- Large typography, clean layouts and carefully composed editorial sections.
+- Photographic authenticity, environmental detail, dimensional depth and intentional motion.
+- A distinctive visual identity, not an off-the-shelf “green sustainability template.”
+- More like an ambitious agricultural technology company than a conventional village poultry website.
+
+Suggested palette
+
+Use these as starting design tokens and refine them cohesively:
+
+- Deep Forest: "#102820"
+- Emerald: "#176B4D"
+- Electric Leaf: "#B5F45B"
+- Warm Ivory: "#F5F1E7"
+- Soil Brown: "#73513A"
+- Water Teal: "#55B9B0"
+- Charcoal: "#141917"
+
+Use warm ivory and forest-green surfaces for editorial clarity, with darker cinematic sections for flagship stories and lime accents for interactive states. Teal should help distinguish aquaculture and water-related information.
+
+Do not make every section dark, glowing or glassmorphic. Use contrast and visual rhythm.
+
+Typography
+
+- Choose a modern, variable English typeface such as Geist or Inter.
+- Use a high-quality Bangla font such as Noto Sans Bengali or Hind Siliguri.
+- Establish a responsive type scale with confident oversized headings, readable Bengali paragraphs and carefully spaced metadata.
+- Test Bangla line height, punctuation, mixed English/Bengali text and mobile wrapping.
+
+Layout
+
+- Strong editorial grid system.
+- Wide cinematic media panels.
+- Variable-height image compositions.
+- Carefully controlled asymmetry.
+- Refined navigation and full-screen mobile menu.
+- Large, legible information blocks.
+- Interactive diagrams integrated into the information hierarchy.
+- No endless uniform card grids.
+
+Every visual effect must serve the subject being explained.
+
+---
+
+5. Homepage — Complete Design and Content
+
+Build a substantial homepage that guides visitors from the brand's purpose to the complete agricultural system.
+
+Section 01 — Cinematic Hero
+
+A full-screen, visually rich opening experience.
+
+Headline:
+
+AGRICULTURE, RECONNECTED.
+
+Supporting Bengali copy:
+
+“Parbatipur থেকে আমরা এমন একটি কৃষি ব্যবস্থা গড়ে তোলার লক্ষ্য নিয়ে কাজ করছি, যেখানে খাদ্য উৎপাদন, সম্পদের পুনর্ব্যবহার, স্থানীয় কর্মসংস্থান এবং প্রযুক্তি একে অপরের সঙ্গে সংযুক্ত।”
+
+Primary CTA: "Explore Our System"
+
+Secondary CTA: "Discover Our Operations"
+
+Visual direction:
+
+- A high-quality cinematic aerial or elevated view of a Bangladesh-inspired agricultural landscape.
+- A modern poultry structure, a freshwater pond, crop rows, a nursery, and surrounding countryside.
+- Slow atmospheric movement, realistic lighting, natural wind motion and carefully controlled depth.
+- Use high-quality licensed footage or an intentionally created 3D environment.
+- Avoid fake holographic dashboards floating over real livestock.
+- The hero must work without WebGL and on mobile.
+- Do not let background video prevent the heading and buttons from loading quickly.
+
+Add a refined brand mark: a custom “PCA” or abstract circular-agriculture symbol paired with the full brand name. Do not settle for an arbitrary stock logo.
+
+Section 02 — The Core Philosophy
+
+Headline: "One Farm. Connected Systems."
+
+Bangla copy should explain why the business connects food production, biological resource recovery and digital tools instead of treating them as isolated activities.
+
+Create three visual principles:
+
+- Produce Responsibly
+- Recover Resources
+- Measure Everything
+
+Each principle gets a distinct visual treatment and a short Bengali explanation.
+
+Section 03 — Interactive Farm Ecosystem
+
+Make this a flagship website feature.
+
+Build an attractive isometric or slightly cinematic interactive 3D farm model. The visitor should be able to explore separate zones:
+
+1. Broiler Production
+2. Aquaculture Pond
+3. Resource Recovery
+4. Nursery & Seasonal Crops
+5. Potential Black Soldier Fly Pilot
+6. FarmOS Digital Management
+
+Use subtle movement, ambient environmental effects, and clickable location markers.
+
+When a visitor selects a zone, display:
+
+- The English unit name.
+- A Bengali explanation.
+- Its role in the system.
+- Relevant inputs and outputs.
+- Connections with other units.
+- Current status: core plan, pilot candidate, or expansion opportunity.
+
+Use a real Three.js/React Three Fiber implementation only where it adds value. A well-executed lightweight 3D or illustrated scene is preferable to a poorly optimized photorealistic environment.
+
+Include a beautiful static fallback for devices that cannot run WebGL efficiently.
+
+Section 04 — How the Circular System Works
+
+Headline: "From Resources to Results."
+
+Create a clear, interactive circular-flow diagram.
+
+Visitors can follow:
+
+- Poultry → litter management → compost research → nursery.
+- Suitable organic side streams → potential insect-biomass pilot.
+- Agricultural residues → potential mushroom pilot → assessment of reusable spent substrate.
+- Digital records → better visibility into production, costs and resource use.
+
+Each link opens a Bengali explanation with inputs, outputs, safety considerations and practical limitations.
+
+Do not suggest raw poultry manure should be discharged directly into the fish pond.
+
+Section 05 — Our Operations
+
+Show the principal business units using a high-quality editorial layout.
+
+Each operation card should include:
+
+- A strong photograph or short video.
+- English title.
+- Bengali description.
+- A “Learn More” interaction.
+- Its role in the overall ecosystem.
+- Appropriate status information.
+
+Make Broiler Production and Aquaculture visually prominent, then show Resource Recovery, Nursery, experimental biological processes and FarmOS.
+
+Section 06 — Technology in Agriculture
+
+Headline: "Data for Better Decisions."
+
+Explain FarmOS in Bengali.
+
+Show an interactive product visualization featuring sample screens for:
+
+- Poultry batch management.
+- Feed and weight records.
+- Mortality tracking.
+- Fish-production records.
+- Inventory and cost tracking.
+- Sales and profitability.
+
+Use sample data only when explicitly labelled “Illustrative Data.” Do not represent it as live farm data.
+
+Create polished simulated software screens for explaining the intended product, not a fake live dashboard.
+
+Section 07 — Resource Recovery Story
+
+A scroll-led story showing how suitable organic side streams can be handled and investigated for productive uses.
+
+Use a sequence of real photographs, restrained diagrams, and subtle motion.
+
+Include this message in Bengali:
+
+“বর্জ্যকে কাজে লাগানোর ধারণা তখনই কার্যকর, যখন সংগ্রহ, প্রক্রিয়াকরণ, গুণমান, নিরাপত্তা এবং বিক্রয়—প্রতিটি ধাপ বাস্তবে যাচাই করা হয়।”
+
+Do not present resource recovery as zero-waste or guaranteed-profit production.
+
+Section 08 — People and Local Opportunity
+
+Headline: "Growing With Our Community."
+
+Bengali copy should explain the intention to create meaningful local youth employment through farm operations, production records, resource recovery, nursery management and digital tools.
+
+Show authentic or appropriately licensed photos of agricultural workers, hands-on production and training.
+
+Do not fabricate named employees, staff photographs, current job openings or employment statistics.
+
+Section 09 — Media Preview
+
+Headline: "Inside the System."
+
+Build a rich photographic and video gallery teaser with:
+
+- Farm & Landscape
+- Poultry Production
+- Aquaculture
+- Circular Systems
+- Technology & Data
+- Research & Field Notes
+
+Use animated gallery previews, subtle image reveals and an accessible lightbox.
+
+Section 10 — Research, Updates and Insights
+
+Headline: "Explore the Thinking."
+
+Feature article cards with thoughtful Bangla summaries.
+
+Suggested topics:
+
+- Understanding poultry feed costs.
+- What makes an organic-waste system viable?
+- Fish-pond planning under seasonal access.
+- The role of digital records in farm management.
+- Evaluating black soldier fly production.
+- Reducing waste without compromising biosecurity.
+
+Use evidence-based writing. Make it clear which material is educational research, a project update, or an operational result. Do not manufacture an archive of fake past events.
+
+Section 11 — Contact and Collaboration
+
+Headline: "Build Better Agriculture Together."
+
+Bangla copy should invite appropriate enquiries from potential buyers, suppliers, technical advisers, research partners and people interested in agricultural collaboration.
+
+Include a functional contact form with:
+
+- Name
+- Email or phone
+- Organisation (optional)
+- Inquiry type
+- Message
+- Consent where needed
+
+Support appropriate validation and clear submission success/error states. Wire the form to a real configured service or secure server endpoint, with environment variables for credentials. Do not show “Message sent” when submission has failed.
+
+Do not invent a business phone number, address, email, social profile, or contact person. Keep genuine contact details in one easily editable configuration file until confirmed.
+
+---
+
+6. Full Website Pages
+
+Do not put the whole business into one endless landing page. Build a complete multi-page information architecture with shared design components.
+
+A. Home — "/"
+
+The cinematic introduction, ecosystem overview, business-unit navigation, technology, media and contact sections.
+
+B. Our System — "/our-system"
+
+Explain the circular-agriculture concept in depth.
+
+Include:
+
+- The business philosophy.
+- A detailed system map.
+- Inputs and outputs.
+- Which relationships are technically established, which need validation, and which are future opportunities.
+- The operating logic behind each connection.
+- The difference between circularity as a goal and proven resource recovery.
+
+Include an interactive flow explorer with meaningful controls and accessible text alternatives.
+
+C. Operations — "/operations"
+
+A complete overview page linking to separate operation pages.
+
+Broiler Production — "/operations/broiler-production"
+
+Explain:
+
+- The purpose of the broiler unit.
+- The planned initial 500-bird scenario.
+- Shed layout principles.
+- Ventilation, drinkers, feeders and water access.
+- Biosecurity.
+- Feed, weight, mortality and cost tracking.
+- Production-cycle management.
+- Waste handling.
+- Sales and buyer verification.
+- How production performance will be measured.
+
+Include a beautiful operational-process timeline from chick placement through growing, health monitoring, sale and shed preparation.
+
+Do not publish a guaranteed profit figure or unverified production results.
+
+Aquaculture — "/operations/aquaculture"
+
+Explain the fish-farming opportunity and the special pond constraint.
+
+Cover:
+
+- Pond measurements and water-quality assessment.
+- Species and stocking decisions.
+- Feed and growth monitoring.
+- Water-quality management.
+- Harvest planning and market access.
+- Seasonal access and the need for documented usage rights.
+- Portable equipment and limited investment before rights are confirmed.
+
+Make it clear that exact stocking densities, yields and cycle lengths require a technical plan for the actual pond.
+
+Resource Recovery — "/operations/resource-recovery"
+
+Explain suitable poultry litter collection, controlled composting, plant residues, material separation, quality testing, safe handling and potential nursery applications.
+
+Explain that commercial sales require verification of product standards and applicable regulatory requirements.
+
+Insect Bioconversion — "/operations/insect-bioconversion"
+
+Explain the potential black soldier fly model, appropriate substrate selection, controlled processing, biomass measurement, potential outputs, risks, feed-safety questions and market validation.
+
+Mark it as an experimental or pilot candidate until validated.
+
+Nursery & Crops — "/operations/nursery-crops"
+
+Explain seedling production, seasonal cropping, local demand, planting calendars, suitable growing media and links to the wider farm.
+
+Mushroom Research — "/operations/mushrooms"
+
+Explain the possible use of appropriate agricultural residues, clean production processes, contamination prevention, yield tracking, testing and buyer validation.
+
+Future Energy — "/operations/future-energy"
+
+Explain potential long-term energy-recovery opportunities carefully.
+
+Discuss biogas only as a future feasibility study requiring appropriate feedstock, engineering, safe operation and economic justification. Do not claim that the initial poultry operation already produces energy.
+
+D. Circular Agriculture — "/circular-agriculture"
+
+A dedicated, visually rich explanation of resource flows.
+
+Features:
+
+- Interactive systems diagram.
+- Resource input/output cards.
+- “What connects to what?” explorer.
+- A clear distinction between current planning, pilot candidates and future opportunities.
+- Safety and quality principles.
+- Bengali educational explanations.
+
+E. FarmOS — "/technology/farmos"
+
+Present the proposed internal farm-management product as a serious technology initiative.
+
+Include:
+
+- Overview.
+- Poultry management.
+- Fish-production records.
+- Inventory and supplier records.
+- Expenses, payroll and cash-flow visibility.
+- Batch economics.
+- Resource-recovery records.
+- Notifications and anomaly flags.
+- Potential services for external farms.
+
+Explain that abnormal feed or water-intake patterns may trigger human inspection, but the system is not an autonomous veterinary diagnosis tool.
+
+Use interactive UI screenshots and clear product walkthroughs. Do not invent live sensor data or claim integration with devices, Telegram, WhatsApp or databases until those integrations are implemented.
+
+F. Products & Outputs — "/products"
+
+Explain the categories that the business may produce or develop:
+
+- Broiler chickens.
+- Freshwater fish during available production periods.
+- Seedlings and seasonal crops.
+- Processed organic soil inputs, subject to quality and regulatory checks.
+- Potential future agricultural by-products and digital services.
+
+Do not falsely label products “in stock,” display fabricated availability, or promise unverified delivery services. A visitor should be able to submit a genuine availability enquiry.
+
+G. Media Center — "/media"
+
+This must be one of the richest parts of the website.
+
+Build a proper photo and video library with:
+
+- Photo Gallery.
+- Video Stories.
+- Production Processes.
+- Farm & Landscape.
+- Circular Agriculture.
+- Technology.
+- Research & Experiments.
+- People & Skills.
+
+Required features:
+
+- Responsive masonry or editorial grid.
+- Categories and filtering.
+- Search within media.
+- Image lightbox.
+- Video playback with controls.
+- Captions and Bengali descriptions.
+- Keyboard navigation.
+- Responsive media loading.
+- Clear licensing/credit records for sourced assets.
+
+Use locally stored, optimized assets when licensing permits. Do not depend on unstable remote image URLs.
+
+H. Knowledge Hub — "/knowledge"
+
+Build an organized, genuinely useful educational content area.
+
+Initial article set:
+
+1. What Is Circular Agriculture?
+2. How Broiler Production Works.
+3. Why Feed Cost Matters in Poultry.
+4. Understanding Fish-Pond Water Quality.
+5. Safe Organic Resource Recovery.
+6. What Is Black Soldier Fly Bioconversion?
+7. Digital Recordkeeping for Small Farms.
+8. The Difference Between Revenue and Profit.
+9. Working Capital in Seasonal Agriculture.
+10. Evaluating a New Agricultural Technology.
+
+Write full Bengali article content with clear structure, diagrams or relevant photographs, and carefully sourced facts. Do not invent scientific findings. Keep citations or source links attached to externally sourced information and indicate when an article represents general educational material rather than farm-specific results.
+
+I. People & Opportunities — "/people"
+
+Explain how the farm aims to develop local skills and create sustainable, paid roles.
+
+Possible job categories:
+
+- Farm Operations Assistant.
+- Production & Records Assistant.
+- Resource Recovery Operator.
+- Nursery Production Assistant.
+- Future Farm Data & Technology Support.
+
+These are role categories, not assertions that vacancies currently exist. Do not create fake job advertisements.
+
+Explain training principles, practical learning, safe work, recordkeeping and development into more skilled roles.
+
+J. About Us — "/about"
+
+Explain:
+
+- Mission.
+- Vision.
+- Why Parbatipur.
+- The integrated operating model.
+- The role of technology.
+- Resource responsibility.
+- Local value creation.
+- The long-term ambition to serve other farms.
+
+Keep the tone grounded and ambitious. Do not fabricate founders' biographies, years of operation, awards, certifications, partner organisations or impact statistics.
+
+K. Contact — "/contact"
+
+A dedicated contact page with the real configured contact information, a working enquiry form, inquiry categories and a clear description of the types of collaboration being explored.
+
+Include locations or maps only when an accurate, public business location can be established. Do not publish a private family property address without authorization.
+
+L. FAQ — "/faq"
+
+Include questions about:
+
+- What does the business do?
+- How do its business units connect?
+- How is poultry litter handled?
+- What is the role of fish farming?
+- How does pond access affect production?
+- What is FarmOS?
+- Is black soldier fly production already a commercial operation?
+- What is the approach to local employment?
+- How can a buyer or supplier make an enquiry?
+- How can someone learn more about the project's development?
+
+Write each answer in natural Bengali.
+
+---
+
+7. Flagship 3D and Animation Features
+
+Implement meaningful animation after the core website and content work.
+
+3D Feature 1 — Interactive Farm Explorer
+
+A custom isometric 3D environment depicting the proposed farm ecosystem.
+
+Requirements:
+
+- Clickable farm areas.
+- Animated resource-flow connections.
+- Context panels with Bengali descriptions.
+- Camera movement that remains comfortable.
+- Responsive camera framing.
+- Static fallback scene.
+- Click/tap accessibility.
+- Mobile performance optimization.
+
+3D Feature 2 — Circular Flow Animation
+
+Create a visual process where individual resources travel between business units. Make the motion understandable and grounded, not a glowing science-fiction effect.
+
+Feature 3 — Scroll-Driven Storytelling
+
+Use scroll sections that reveal the production journey, resource flows, and digital layer in stages.
+
+Potential animation techniques:
+
+- Image sequence or layered-image transitions.
+- Pinned story sections when appropriate.
+- Staggered typography.
+- Depth-based image movement.
+- Controlled parallax.
+- SVG flow animations.
+- Smooth but native-feeling transitions.
+
+Feature 4 — Rich Media Galleries
+
+Create refined hover previews, video posters, smooth lightbox transitions and cinematic layouts. Do not autoplay audio.
+
+Feature 5 — Functional Data Visualizations
+
+Add optional interactive educational tools:
+
+- Broiler cost calculator using user-entered assumptions.
+- Feed-consumption and batch-performance explainer.
+- Resource-flow calculator using clearly disclosed assumptions.
+- Seasonal production timeline.
+
+The calculations must use transparent formulas and user-editable inputs. Label estimated results as estimates. Never present illustrative scenarios as actual farm results.
+
+Animation rules
+
+- Every animation has a specific purpose.
+- Avoid excessive scroll hijacking.
+- Do not delay access to important content.
+- No animation should block navigation or form controls.
+- Support keyboard interaction.
+- Respect "prefers-reduced-motion".
+- Disable or simplify heavy effects on mobile and low-performance devices.
+- Maintain a usable experience when WebGL is unavailable.
+
+---
+
+8. Photography and Video Strategy
+
+This website needs a large, curated media library—not three stock images repeated throughout the site.
+
+Create a media plan covering:
+
+1. Cinematic rural Bangladesh landscape.
+2. Poultry shed, feeders, drinkers and husbandry.
+3. Broilers at appropriate production stages.
+4. Freshwater fish, ponds, water-quality sampling and harvest.
+5. Compost handling and organic resource recovery.
+6. Black soldier fly larvae and research processes.
+7. Seedlings, vegetable nursery and crops.
+8. Mushroom cultivation.
+9. Farm-management software and mobile data entry.
+10. People carrying out genuine agricultural work.
+11. Close-up material textures, soil, water, leaves and biological detail.
+12. Aerial and wide-angle environmental footage.
+
+Use reputable licensing sources, such as appropriately licensed stock libraries, Wikimedia Commons, or original commissioned assets. Verify the licence for each asset and maintain an asset manifest with source, attribution and licence details.
+
+Do not copy another company's website images, proprietary 3D models or video clips without permission. Do not hotlink random files from image-search results.
+
+For video:
+
+- Prefer well-compressed, short, silent looping clips for decorative backgrounds.
+- Use video controls for documentary content.
+- Supply poster images.
+- Avoid large auto-downloaded videos on mobile.
+- Pause nonessential animations when the relevant section is offscreen.
+
+Visual truthfulness: if imagery is illustrative rather than footage from the actual farm, do not label it as a photograph of our own operation. The site can still feel complete and premium through high-quality editorial images, 3D illustrations and explanatory graphics.
+
+---
+
+9. Technology Stack and Code Quality
+
+Inspect the repository before making decisions. Preserve functioning existing work where appropriate.
+
+Preferred stack:
+
+- Next.js App Router.
+- TypeScript.
+- Tailwind CSS.
+- shadcn/ui where it supports the design system.
+- GSAP + ScrollTrigger for carefully orchestrated scroll animations.
+- Three.js / React Three Fiber for the interactive 3D flagship experience.
+- Motion for lightweight interface transitions if appropriate.
+- A well-structured content layer for articles, operations, FAQs and media metadata.
+
+Check current stable package versions and compatibility at implementation time. Do not install every animation library merely because it is available.
+
+Architecture requirements:
+
+- Reusable design tokens and components.
+- Clearly separated content and presentation.
+- Strong TypeScript types.
+- Shared navigation, footer and layout.
+- Reusable operation-page templates.
+- Centralized asset paths and metadata.
+- Server-rendered content where appropriate.
+- Client components only where interactivity requires them.
+- Error boundaries and graceful animation fallbacks.
+- Clean linting and build output.
+
+Do not build an unnecessary backend, database or authentication system just for the website. Add backend functionality only where the website genuinely needs it.
+
+If no repository exists, initialize the project, install dependencies, create the necessary folders and build the site rather than merely providing instructions.
+
+---
+
+10. Performance, SEO and Accessibility
+
+This is a visually advanced website, but it must work on ordinary phones and slower connections in Bangladesh.
+
+Performance targets:
+
+- Aim for strong Core Web Vitals: LCP at or below 2.5 seconds, INP at or below 200 milliseconds, and CLS at or below 0.1 under Google's recommended assessment conditions.
+- Optimize the initial hero and avoid unnecessary JavaScript.
+- Use properly sized responsive images and modern image formats.
+- Lazy-load below-the-fold media.
+- Use thumbnails and compressed models for interactive 3D.
+- Avoid downloading full video backgrounds before they are needed.
+- Preserve responsive layouts and prevent layout shifts.
+- Prefer real performance testing over claims about a score.
+
+Accessibility:
+
+- Semantic HTML.
+- Keyboard-operable navigation, galleries and diagrams.
+- Visible focus states.
+- Accessible form labels and validation messages.
+- Sufficient color contrast.
+- Alt text for meaningful images.
+- Captions or transcripts for important video content.
+- Reduced-motion support.
+- Text alternatives for essential 3D interactions.
+
+SEO:
+
+- Unique title and meta description for each page.
+- Open Graph metadata.
+- Canonical URLs after the domain is confirmed.
+- XML sitemap and robots configuration.
+- Appropriate structured data where the actual business facts justify it.
+- Descriptive URLs.
+- Optimized Bengali and English metadata where useful.
+- No fabricated address, opening hours, phone number, certification, review or rating structured data.
+
+---
+
+11. Design Quality Requirements
+
+The website must not look like:
+
+- A generic farm template.
+- A basic corporate website with a hero, three cards and a footer.
+- A student portfolio.
+- An AI-generated dashboard with meaningless floating elements.
+- A dark website that sacrifices readability.
+- A collection of unconnected animation experiments.
+- A mockup containing buttons that do nothing.
+- A one-page pitch deck masquerading as a full website.
+
+Instead, it should feel like a coherent, ambitious agricultural company with a distinctive digital identity, complete information, a genuinely navigable structure, useful interactions, real explanations and cinematic presentation.
+
+Use visual contrast throughout: editorial light sections, deep green cinematic sections, rich photography, interactive diagrams, careful typography, strong section transitions and occasional immersive 3D.
+
+On mobile, redesign the experience intentionally. Do not merely stack desktop cards or hide all the interesting interactions.
+
+---
+
+12. Execution Order — Follow This Exactly
+
+Phase 1: Core Product and Content
+
+First:
+
+1. Inspect the current codebase.
+2. Establish the brand design tokens and global layout.
+3. Build the complete page structure and navigation.
+4. Write and integrate all supplied business information and Bengali descriptions.
+5. Implement the reusable content model, operation pages, articles, FAQ, media data and forms.
+6. Make every route work.
+7. Make the responsive site usable before adding heavy visual effects.
+
+Do not stop after creating a wireframe or homepage mockup.
+
+Phase 2: Visual Identity and Media
+
+Next:
+
+1. Refine typography and spacing.
+2. Build the complete image and video galleries.
+3. Add carefully chosen photography and media.
+4. Create the circular-system diagrams and polished software mockups.
+5. Establish the premium visual composition across all pages.
+
+Phase 3: Advanced Animation and 3D
+
+Next:
+
+1. Build the interactive farm explorer.
+2. Add the circular-flow animation.
+3. Implement selected scroll-driven storytelling.
+4. Refine image transitions, hover interactions, navigation and video presentation.
+5. Add appropriate loading states and graceful fallbacks.
+6. Optimize mobile interactions.
+
+Phase 4: Final Quality Assurance
+
+Finally:
+
+1. Test every route and navigation item.
+2. Test all forms, filters, interactive diagrams, video controls and buttons.
+3. Test desktop, tablet and mobile breakpoints.
+4. Test reduced motion and WebGL fallbacks.
+5. Check Bengali fonts, line breaks and mixed-language layouts.
+6. Verify asset licences, URLs and metadata.
+7. Run lint, TypeScript checks and a production build.
+8. Fix broken links, console errors and responsive issues.
+9. Report what is implemented, what requires credentials, and what has not been verified.
+
+Implement the phases sequentially without asking for confirmation between them. Do not end after giving a plan. Continue until the complete website is implemented and checked within the available environment.
+
+---
+
+13. Final Content and Honesty Rules
+
+This business is under development, and several operation modules remain proposals or experimental candidates.
+
+Make the website comprehensive and professionally finished without inventing:
+
+- Existing revenue.
+- Production volume.
+- Customers or purchase agreements.
+- Employee numbers.
+- Awards or certifications.
+- Government approvals.
+- Live monitoring data.
+- Verified feed savings.
+- Guaranteed profitability.
+- Scientific or environmental outcomes.
+- Facilities that do not exist.
+
+Write full explanations about how the system is intended to work, which activities are the core plan, which are pilots, and which are future opportunities.
+
+Do not make every page a “Coming Soon” page. Build the full content and experience now. Use subtle, accurate status indicators only where the distinction affects what a visitor should understand.
+
+The website should present a clear business identity, not a funding application. Do not make Bangladesh Bank financing, the UDYOG programme or a funding request the centre of the public website.
+
+Final Objective
+
+Create a distinctive, visually immersive, technically sound and fully informative website for PARBATIPUR CIRCULAR AGRITECH HUB.
+
+A visitor should be able to understand the business, explore each agricultural operation, follow how the resource loops connect, learn about FarmOS, browse rich photography and video, read educational articles, understand the development roadmap and contact the organisation.
+
+Make it feel ambitious enough to represent the future of a connected agricultural enterprise, grounded enough to earn trust, and useful enough that a visitor leaves with a full understanding of what the business does and how its systems fit together.
+
+Build the core first. Complete the content. Add the visual identity. Then deliver the 3D, animation and media experience. Finish the complete website—not just the first screen.

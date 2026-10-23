@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #102820;
+  --color-forest-dark: #091712;
+  --color-emerald-hub: #176B4D;
+  --color-emerald-light: #208E66;
+  --color-electric: #B5F45B;
+  --color-ivory: #F5F1E7;
+  --color-ivory-light: #FAF8F3;
+  --color-soil: #73513A;
+  --color-soil-dark: #4A3324;
+  --color-water: #55B9B0;
+  --color-charcoal: #141917;
+
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-bengali: 'Hind Siliguri', 'Noto Sans Bengali', sans-serif;
+  --font-mono: 'JetBrains Mono', 'Hind Siliguri', monospace;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-ivory);
+    color: var(--color-charcoal);
+  }
+
+  /* Bengali typography styling for optimum readability & line height */
+  .font-bn {
+    font-family: var(--font-bengali);
+    line-height: 1.7;
+    letter-spacing: 0.01em;
+  }
+}
+
+/* Custom scrollbar for clean UI */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F5F1E7;
+}
+::-webkit-scrollbar-thumb {
+  background: #C4BEB1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #176B4D;
+}

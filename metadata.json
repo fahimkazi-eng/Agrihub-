@@ -1,0 +1,6 @@
+{
+  "name": "Parbatipur Circular Agritech Hub",
+  "description": "Integrated Agriculture, Aquaculture, Poultry, Circular Resource Recovery, and AgriTech Hub in Parbatipur, Dinajpur, Bangladesh. Agriculture, Reconnected.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
